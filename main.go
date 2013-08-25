@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./marsrover"
+	marsrover "github.com/cangencer/marsrover-go/marsrover"
 	"bufio"
 	"errors"
 	"fmt"
